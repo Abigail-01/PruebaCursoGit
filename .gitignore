@@ -1,5 +1,4 @@
-/app/bin/**/*.feature
-/app/bin/**/*.class
+/**/bin/**/*.*
 .gradle
 **/build/
 !src/**/build/
