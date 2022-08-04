@@ -10,6 +10,7 @@ public class App {
         //estamos en rama prueba hacemos cambios
     }
 // SAHJDHASJKDHASKJDHSAKDASJDAKS no sean cabrones, no era así, es HJGDHJDSJHKGFHJKDSHJKFDS
+    //Mejor agreguen nuevo método, etc etc...
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
         //cambio
