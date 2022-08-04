@@ -6,7 +6,7 @@ package udemclass;
 
 public class App {
     public String getGreeting() {
-        return "::: Hello World GIRL :::";
+        return "::: Hello World GIRL ::: --------- ";
     }
 
     public static void main(String[] args) {
