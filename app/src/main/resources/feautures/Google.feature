@@ -4,3 +4,4 @@ Feature: Test Google search functionality
         When I enter a search criteria
         And Clic on the search button
         Then The results match the criteria
+sdsadsa
